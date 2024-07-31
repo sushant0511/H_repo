@@ -1,0 +1,8 @@
+package com.java.testInheri;
+
+public class CallMainInheri {
+
+	public static void main(String[] args) {
+		
+	}
+}

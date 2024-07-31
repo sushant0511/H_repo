@@ -1,0 +1,13 @@
+package com.java.testenca;
+
+public class Person {
+
+	
+	int a,b,c;
+	
+	
+	
+	
+	
+	
+}

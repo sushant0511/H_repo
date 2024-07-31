@@ -1,0 +1,11 @@
+package com.java.testInheri;
+
+public class CallMainInheri {
+
+	public static void main(String[] args) {
+		
+		Car car=new Car();
+		Santro santro=new Santro();
+		
+	}
+}

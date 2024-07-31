@@ -1,0 +1,10 @@
+package com.java.testoverride;
+
+public class CallMain {
+
+	public static void main(String[] args) {
+		
+		NewAddition addition=new NewAddition();
+		addition.add(10);
+	}
+}

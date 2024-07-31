@@ -1,0 +1,11 @@
+package com.java.testoverload;
+
+public class Add {
+
+	public void add() {
+		
+		int a;
+		System.out.println(a);
+		
+	}
+}

@@ -1,0 +1,11 @@
+package com.jav.tectConstrcu;
+
+public class CallmainConstcrutor {
+
+	public static void main(String[] args) {
+		
+		Addition a=new Addition();// Object create
+		a.call();
+		
+	}
+}

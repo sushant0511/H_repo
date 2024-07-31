@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.java.encap.Person"><rhs name\="com.java.encap.Person"/></lhs><lhs name\="com.java.oopstest.User"><rhs name\="com.java.oopstest.User"/></lhs><lhs name\="com.java.test.TestOverLoad"><rhs name\="com.java.test.TestOverLoad"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="com.java.testenca.TestEncap"><rhs name\="com.java.testenca.TestEncap"/></lhs><lhs name\="com.java.testoverload.Add"><rhs name\="com.java.testoverload.Add"/></lhs><lhs name\="com.java.testInheri.Car"><rhs name\="com.java.testInheri.Car"/></lhs><lhs name\="com.java.testInheri.Santro"><rhs name\="com.java.testInheri.Santro"/></lhs><lhs name\="com.java.testoverride.Addition"><rhs name\="com.java.testoverride.NewAddition"/></lhs><lhs name\="com.java.testoverride.NewAddition"><rhs name\="com.java.testoverride.NewAddition"/></lhs><lhs name\="com.jav.tectConstrcu.Addition"><rhs name\="com.jav.tectConstrcu.Addition"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.java.encap.Person"/>
+    <fullyQualifiedTypeName name="com.java.oopstest.User"/>
+    <fullyQualifiedTypeName name="com.java.test.TestOverLoad"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.java.test.TestAdd"/>
+    <fullyQualifiedTypeName name="com.java.testenca.Person"/>
+    <fullyQualifiedTypeName name="com.java.testenca.TestEncap"/>
+    <fullyQualifiedTypeName name="com.java.testoverload.Add"/>
+    <fullyQualifiedTypeName name="com.java.testInheri.Santro"/>
+    <fullyQualifiedTypeName name="com.java.testInheri.Car"/>
+    <fullyQualifiedTypeName name="com.java.testoverride.Addition"/>
+    <fullyQualifiedTypeName name="com.java.testoverride.NewAddition"/>
+    <fullyQualifiedTypeName name="com.jav.tectConstrcu.Addition"/>
+</qualifiedTypeNameHistroy>

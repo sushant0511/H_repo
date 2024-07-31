@@ -1,0 +1,13 @@
+package com.jav.tectConstrcu;
+
+public class CallmainConstcrutor {
+
+	public static void main(String[] args) {
+		
+		
+		 new Addition();  // garbage collector called by default
+		new Addition(12, 3);
+		
+		
+	}
+}

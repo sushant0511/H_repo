@@ -1,0 +1,8 @@
+package com.jav.tectConstrcu;
+
+public class Addition {
+
+	public Addition() {
+		System.out.println("Called when memory allocated");
+	}
+}

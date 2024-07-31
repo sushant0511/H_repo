@@ -1,0 +1,26 @@
+package com.java.testoverload;
+
+public class Add {
+
+	public void add() {
+		
+		int a,b,c;
+		a=10;
+		b=20;
+		c=a+b;
+		System.out.println(c);
+		
+	}
+	public void add() {
+		
+		int a,b,c;
+		a=10;
+		b=20;
+		c=a+b;
+		System.out.println(c);
+		
+	}
+	
+	
+	
+}

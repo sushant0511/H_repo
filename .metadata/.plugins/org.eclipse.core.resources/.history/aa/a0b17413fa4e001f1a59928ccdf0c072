@@ -1,0 +1,18 @@
+package com.java.testoverride;
+
+public class Addition {
+
+public void add(int x) {
+//	int y=10;
+//	y=20;
+//	System.out.println(y);
+	
+		int b,c;
+		b=20;
+		c=x+b;
+		System.out.println(c);
+		
+	}
+	
+	
+}

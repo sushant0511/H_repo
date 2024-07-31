@@ -1,0 +1,13 @@
+package com.java.testDatatypes;
+
+public class TestDatatypes {
+
+	public static void main(String[] args) {
+		
+		long a,b,c;
+		a=1900000001;
+		b=2000000001;
+		c=a+b;
+		System.out.println(c);
+	}
+}

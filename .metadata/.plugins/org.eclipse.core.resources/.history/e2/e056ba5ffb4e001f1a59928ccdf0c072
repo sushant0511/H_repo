@@ -1,0 +1,13 @@
+package com.jav.tectConstrcu;
+
+public class CallmainConstcrutor {
+
+	public static void main(String[] args) {
+		
+		Addition a;  //refrence but no memory
+		a=new Addition();// Object create
+		int b;
+		b=10;
+		
+	}
+}

@@ -1,0 +1,9 @@
+package com.jav.tectConstrcu;
+
+public class Addition {
+
+	public void call()
+	{
+		System.out.println("Hi from method");
+	}
+}

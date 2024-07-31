@@ -1,0 +1,11 @@
+package com.java.test;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		
+		TestOverLoad load=new TestOverLoad();
+		TestOverLoad.add();
+		TestOverLoad.add(12);
+	}
+}

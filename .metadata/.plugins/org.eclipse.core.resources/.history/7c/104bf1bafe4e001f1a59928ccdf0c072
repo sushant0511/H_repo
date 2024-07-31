@@ -1,0 +1,13 @@
+package com.java.testDatatypes;
+
+public class TestDatatypes {
+
+	public static void main(String[] args) {
+		
+		float a,b,c;
+		a=13;
+		b=3;
+		c=a/b;
+		System.out.println(c);
+	}
+}

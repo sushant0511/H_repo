@@ -1,0 +1,7 @@
+package com.java.testoverride;
+
+public class NewAddition extends Addition 
+{
+
+	
+}

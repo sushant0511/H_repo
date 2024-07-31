@@ -1,0 +1,31 @@
+package com.java.test;
+
+import java.util.Scanner;
+
+public class TestAdd {
+
+	public static void main(String[] args) {
+		
+		int a,b,c;
+		System.out.println("Input");
+		Scanner scanner=new Scanner(System.in);
+		a=scanner.nextInt();
+		b=scanner.nextInt();
+		c=a+b;
+		if(c>30)
+		{
+			System.out.println(c);
+		}
+		else
+		{
+			System.out.println("Restart");
+			TestAdd.main(args);
+			
+		}
+	}
+}
+
+
+
+
+

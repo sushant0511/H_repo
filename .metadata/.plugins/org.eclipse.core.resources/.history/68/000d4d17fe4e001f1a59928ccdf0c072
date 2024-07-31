@@ -1,0 +1,8 @@
+package com.java.testDatatypes;
+
+public class TestDatatypes {
+
+	public static void main(String[] args) {
+		
+	}
+}
